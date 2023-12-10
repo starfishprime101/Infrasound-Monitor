@@ -8,7 +8,7 @@
 import os
 import smbus
 
-home_directory = '/home/ian/GeoPhysics'
+home_directory = '/home/geophysics'
 # replace with home directory of application
 
 
